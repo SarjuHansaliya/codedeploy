@@ -1,3 +1,2 @@
 #!/bin/bash
-service httpd start
-
+http-server -i 82 /home/ubuntu/codedeploy
